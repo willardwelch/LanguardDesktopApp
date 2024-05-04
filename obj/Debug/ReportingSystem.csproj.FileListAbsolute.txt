@@ -1,0 +1,220 @@
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\ReportingSystem.exe.config
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\ReportingSystem.exe
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\ReportingSystem.pdb
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Core.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Identity.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Buffers.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.Data.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.AccessControl.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Permissions.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Json.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.ValueTuple.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Core.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Identity.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Buffers.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.Data.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.AccessControl.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Permissions.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Json.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\System.ValueTuple.xml
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.csproj.AssemblyReference.cache
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateBrigade.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Createcoy.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateRank.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateSecurity.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateUnit.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateUser.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteBrigade.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteCoy.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteEntry.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteOrder.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteRank.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteUnit.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditBrigade.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditCoy.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditEntry.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditOrder.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditRank.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditSecurityDetail.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditUnit.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditUser.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Entry.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Login.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.MenuWindow.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Orders.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Properties.Resources.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Rank.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.SecuriyInfoSearch.resources
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.csproj.GenerateResource.cache
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.csproj.CoreCompileInputs.cache
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\Reportin.CC88E94E.Up2Date
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.exe
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.pdb
+C:\OneDrive - Vocational Training Development Institute\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteSecurity.resources
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\ReportingSystem.exe.config
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\ReportingSystem.exe
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\ReportingSystem.pdb
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Core.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Identity.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Buffers.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.Data.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.AccessControl.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Permissions.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Json.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.ValueTuple.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Core.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Azure.Identity.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Buffers.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Memory.Data.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.AccessControl.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Permissions.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Text.Json.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\System.ValueTuple.xml
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.csproj.AssemblyReference.cache
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateBrigade.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Createcoy.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateRank.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateSecurity.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateUnit.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.CreateUser.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteBrigade.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteCoy.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteEntry.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteOrder.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteRank.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteSecurity.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteUnit.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditBrigade.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditCoy.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditEntry.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditOrder.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditRank.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditSecurityDetail.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditUnit.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.EditUser.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Entry.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Login.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.MenuWindow.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Orders.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.Properties.Resources.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.SecuriyInfoSearch.resources
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.csproj.GenerateResource.cache
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.csproj.CoreCompileInputs.cache
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\Reportin.CC88E94E.Up2Date
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.exe
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.pdb
+C:\DewsktopWindows Project\ReportingSystem\obj\Debug\ReportingSystem.DeleteUser.resources

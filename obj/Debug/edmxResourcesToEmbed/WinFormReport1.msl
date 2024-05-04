@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WinFormReportingSystemModelStoreContainer" CdmEntityContainer="WinformReportingSystemEntities">
+    <EntitySetMapping Name="Brigades">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.Brigade">
+        <MappingFragment StoreEntitySet="Brigade">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BrigadeName" ColumnName="BrigadeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Coys">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.Coy">
+        <MappingFragment StoreEntitySet="Coy">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CoyName" ColumnName="CoyName" />
+          <ScalarProperty Name="UnitID" ColumnName="UnitID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EntryTypes">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.EntryType">
+        <MappingFragment StoreEntitySet="EntryType">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EntryName" ColumnName="EntryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrdersTypes">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.OrdersType">
+        <MappingFragment StoreEntitySet="OrdersType">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OrdersName" ColumnName="OrdersName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Passwords">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.Password">
+        <MappingFragment StoreEntitySet="Password">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="Rights" ColumnName="Rights" />
+          <ScalarProperty Name="BrigadeLevel" ColumnName="BrigadeLevel" />
+          <ScalarProperty Name="UntLevel" ColumnName="UntLevel" />
+          <ScalarProperty Name="CoyLevel" ColumnName="CoyLevel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ranks">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.Rank">
+        <MappingFragment StoreEntitySet="Rank">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RankName" ColumnName="RankName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SoldierInfoes">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.SoldierInfo">
+        <MappingFragment StoreEntitySet="SoldierInfo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="LName" ColumnName="LName" />
+          <ScalarProperty Name="MaritalStatus" ColumnName="MaritalStatus" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="DOE" ColumnName="DOE" />
+          <ScalarProperty Name="ROD" ColumnName="ROD" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Parish" ColumnName="Parish" />
+          <ScalarProperty Name="TerminationDate" ColumnName="TerminationDate" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Units">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.Unit">
+        <MappingFragment StoreEntitySet="Unit">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UnitName" ColumnName="UnitName" />
+          <ScalarProperty Name="BdeID" ColumnName="BdeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="P2OEntry">
+      <EntityTypeMapping TypeName="WinFormReportingSystemModel.P2OEntry">
+        <MappingFragment StoreEntitySet="P2OEntry">
+          <ScalarProperty Name="RegNo" ColumnName="RegNo" />
+          <ScalarProperty Name="RankId" ColumnName="RankId" />
+          <ScalarProperty Name="UnitID" ColumnName="UnitID" />
+          <ScalarProperty Name="CoyID" ColumnName="CoyID" />
+          <ScalarProperty Name="EntryID" ColumnName="EntryID" />
+          <ScalarProperty Name="OrdersID" ColumnName="OrdersID" />
+          <ScalarProperty Name="OrderNumber" ColumnName="OrderNumber" />
+          <ScalarProperty Name="DateofOrder" ColumnName="DateofOrder" />
+          <ScalarProperty Name="Occurrence" ColumnName="Occurrence" />
+          <ScalarProperty Name="wefDate" ColumnName="wefDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="EnteredBy" ColumnName="EnteredBy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_CheckBrigadeExist" FunctionName="WinFormReportingSystemModel.Store.sp_CheckBrigadeExist" />
+    <FunctionImportMapping FunctionImportName="sp_CheckifBrigadeExist" FunctionName="WinFormReportingSystemModel.Store.sp_CheckifBrigadeExist" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteBrigade" FunctionName="WinFormReportingSystemModel.Store.sp_DeleteBrigade" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteCoy" FunctionName="WinFormReportingSystemModel.Store.sp_DeleteCoy" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteEntryName" FunctionName="WinFormReportingSystemModel.Store.sp_DeleteEntryName" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteOrderType" FunctionName="WinFormReportingSystemModel.Store.sp_DeleteOrderType" />
+    <FunctionImportMapping FunctionImportName="sp_EditCoy" FunctionName="WinFormReportingSystemModel.Store.sp_EditCoy" />
+    <FunctionImportMapping FunctionImportName="sp_EditUser" FunctionName="WinFormReportingSystemModel.Store.sp_EditUser" />
+    <FunctionImportMapping FunctionImportName="sp_InsertBrigade" FunctionName="WinFormReportingSystemModel.Store.sp_InsertBrigade" />
+    <FunctionImportMapping FunctionImportName="sp_InsertCoy" FunctionName="WinFormReportingSystemModel.Store.sp_InsertCoy" />
+    <FunctionImportMapping FunctionImportName="sp_InsertEntryName" FunctionName="WinFormReportingSystemModel.Store.sp_InsertEntryName" />
+    <FunctionImportMapping FunctionImportName="sp_InsertOrderType" FunctionName="WinFormReportingSystemModel.Store.sp_InsertOrderType" />
+    <FunctionImportMapping FunctionImportName="sp_InsertPt2Orders" FunctionName="WinFormReportingSystemModel.Store.sp_InsertPt2Orders" />
+    <FunctionImportMapping FunctionImportName="sp_InsertRank" FunctionName="WinFormReportingSystemModel.Store.sp_InsertRank" />
+    <FunctionImportMapping FunctionImportName="sp_InsertSecurityDetail" FunctionName="WinFormReportingSystemModel.Store.sp_InsertSecurityDetail" />
+    <FunctionImportMapping FunctionImportName="sp_InsertUnit" FunctionName="WinFormReportingSystemModel.Store.sp_InsertUnit" />
+    <FunctionImportMapping FunctionImportName="sp_InsertUser" FunctionName="WinFormReportingSystemModel.Store.sp_InsertUser" />
+    <FunctionImportMapping FunctionImportName="sp_SearchEmployeeInfoID" FunctionName="WinFormReportingSystemModel.Store.sp_SearchEmployeeInfoID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_SearchEmployeeInfoID_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="First_Name" ColumnName="First Name" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last Name" />
+          <ScalarProperty Name="Marital_Staus" ColumnName="Marital Staus" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Date_of_Birth" ColumnName="Date of Birth" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_SearchSecurityDetail" FunctionName="WinFormReportingSystemModel.Store.sp_SearchSecurityDetail">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_SearchSecurityDetail_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="First_Name" ColumnName="First Name" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last Name" />
+          <ScalarProperty Name="Marital_Staus" ColumnName="Marital Staus" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Date_of_Birth" ColumnName="Date of Birth" />
+          <ScalarProperty Name="Date_of_Enlistment" ColumnName="Date of Enlistment" />
+          <ScalarProperty Name="Run_Out_Date" ColumnName="Run Out Date" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Parish" ColumnName="Parish" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectBrigade" FunctionName="WinFormReportingSystemModel.Store.sp_selectBrigade">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectBrigade_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Brigade" ColumnName="Brigade" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectBrigadebyBde" FunctionName="WinFormReportingSystemModel.Store.sp_selectBrigadebyBde">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectBrigadebyBde_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Brigade" ColumnName="Brigade" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectCoy" FunctionName="WinFormReportingSystemModel.Store.sp_selectCoy">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectCoy_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectCoybyID" FunctionName="WinFormReportingSystemModel.Store.sp_selectCoybyID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectCoybyID_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectEntryName" FunctionName="WinFormReportingSystemModel.Store.sp_selectEntryName">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectEntryName_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Entry" ColumnName="Entry" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectOrdersType" FunctionName="WinFormReportingSystemModel.Store.sp_selectOrdersType">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectOrdersType_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ordersName" ColumnName="ordersName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectP20EntrybyID" FunctionName="WinFormReportingSystemModel.Store.sp_selectP20EntrybyID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectP20EntrybyID_Result">
+          <ScalarProperty Name="Rank" ColumnName="Rank" />
+          <ScalarProperty Name="First_Name" ColumnName="First Name" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last Name" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="Entry" ColumnName="Entry" />
+          <ScalarProperty Name="OrderNumber" ColumnName="OrderNumber" />
+          <ScalarProperty Name="Occurrence" ColumnName="Occurrence" />
+          <ScalarProperty Name="DateofOrder" ColumnName="DateofOrder" />
+          <ScalarProperty Name="wefDate" ColumnName="wefDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="EnteredBy" ColumnName="EnteredBy" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectRank" FunctionName="WinFormReportingSystemModel.Store.sp_selectRank">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectRank_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="RankName" ColumnName="RankName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectUnit" FunctionName="WinFormReportingSystemModel.Store.sp_selectUnit">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectUnit_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectUnitbyID" FunctionName="WinFormReportingSystemModel.Store.sp_selectUnitbyID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectUnitbyID_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_SelectUser" FunctionName="WinFormReportingSystemModel.Store.sp_SelectUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_SelectUser_Result">
+          <ScalarProperty Name="Users" ColumnName="Users" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="Rights" ColumnName="Rights" />
+          <ScalarProperty Name="BrigadeLevel" ColumnName="BrigadeLevel" />
+          <ScalarProperty Name="UntLevel" ColumnName="UntLevel" />
+          <ScalarProperty Name="CoyLevel" ColumnName="CoyLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_selectUserLogin" FunctionName="WinFormReportingSystemModel.Store.sp_selectUserLogin" />
+    <FunctionImportMapping FunctionImportName="sp_selectUserLoginDetail" FunctionName="WinFormReportingSystemModel.Store.sp_selectUserLoginDetail">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinFormReportingSystemModel.sp_selectUserLoginDetail_Result">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Rights" ColumnName="Rights" />
+          <ScalarProperty Name="BrigadeLevel" ColumnName="BrigadeLevel" />
+          <ScalarProperty Name="UntLevel" ColumnName="UntLevel" />
+          <ScalarProperty Name="CoyLevel" ColumnName="CoyLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_UpdateBrigade" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateBrigade" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateCoy" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateCoy" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateEntryName" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateEntryName" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateOrderType" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateOrderType" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateRank" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateRank" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateSecurityDetail" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateSecurityDetail" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateUnit" FunctionName="WinFormReportingSystemModel.Store.sp_UpdateUnit" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteRank" FunctionName="WinFormReportingSystemModel.Store.sp_DeleteRank" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteUnit1" FunctionName="WinFormReportingSystemModel.Store.sp_DeleteUnit" />
+  </EntityContainerMapping>
+</Mapping>
